@@ -1,5 +1,3 @@
-Here’s a **GitHub-friendly and customized** `README.md` summary based on your input:  
-
 ---
 
 # 👨‍💻 Software Engineer | Full-Stack Development | Data Science & AI  
